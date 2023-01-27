@@ -23,7 +23,7 @@ content:
     region: CA
     postcode: '75013'
     country: France
-    country_code: US
+    country_code: Fr
   coordinates:
     latitude: '48.836705'
     longitude: '2.364828'
