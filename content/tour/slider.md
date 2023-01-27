@@ -15,33 +15,38 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Bienvenue à la journée des doctorants
+      content: de l'UMR-S 1158
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Présentations ☕️
+      content: 'Les doctorants profiteront de cette journée pour vous présenter leur thèse et les travaux qu'ils ont réalisé'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
+        link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Retrouvez nous !
+        url: ../contact/
+   # - title: World-Class Semiconductor Lab
+      #content: 'Just opened last month!'
+     # align: right
+      #background:
         position: center
         color: '#333'
         brightness: 0.5
         media: welcome.jpg
-      link:
+      #link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
+        text: Retrouvez nous !
         url: ../contact/
 ---
