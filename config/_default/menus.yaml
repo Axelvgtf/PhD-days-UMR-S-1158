@@ -5,7 +5,7 @@
 
 main:
   - name: Journée
-    url: /#journée
+    url: content/journée
     weight: 10
   - name: News
     url: post
