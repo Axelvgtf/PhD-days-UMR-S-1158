@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-        link:
+      link:
         icon: graduation-cap
         icon_pack: fas
         text: Retrouvez nous !
