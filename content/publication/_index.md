@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Thèses
 
 # Listing view
-view: citation
+#view: citation
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
