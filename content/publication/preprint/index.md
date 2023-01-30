@@ -2,7 +2,7 @@
 title: 'Échographie ultrarapide pour l'évaluation de la structure, de la fonction et des processus physiopathologiques des muscles respiratoires'
 authors:
   - admin
-date: '2022-2025'
+#date: '2022-2025'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
