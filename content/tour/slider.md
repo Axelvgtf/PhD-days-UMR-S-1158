@@ -15,16 +15,16 @@ design:
 
 content:
   slides:
-    - title: Bienvenue à la journée des doctorants
-      content: de l'UMR-S 1158
+    - title: 👋 Welcome to the group
+      content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Présentations ☕️
-      content: 'Les doctorants profiteront de cette journée pour vous présenter leur thèse et les travaux qu'ils ont réalisé'
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
@@ -42,6 +42,7 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Retrouvez nous 
+        text: Join Us
         url: ../contact/
 ---
+
