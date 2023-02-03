@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.sorbonne-universite.fr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Neuroplasticité respiratoire induite dans les lésions de la moelle épinière cervicale exploration de nouvelles stratégies thérapeutiques
+bio: Neuroplasticité respiratoire induite dans les lésions de la moelle épinière cervicale exploration de nouvelles stratégies thérapeutiques.
 
 interests:
   - Cervical Spinal Cord Injury
