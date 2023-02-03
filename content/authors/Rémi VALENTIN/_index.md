@@ -29,10 +29,10 @@ interests:
 education:
   courses:
     - course: Doctorat
-       institution: Sorbonne Université
+      institution: Sorbonne Université
       year: 2012
     - course: M2 B2PRS
-      institution: 
+      #institution: 
       year: 2019
     - course: Diplôme d'Etat Masso-kinésithérapie
       institution: MKDE
