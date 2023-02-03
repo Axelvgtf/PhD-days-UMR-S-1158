@@ -70,4 +70,5 @@ user_groups:
   - Doctorants
 ---
 
-kkhbfftfuftu
+# Thèse
+Neuroplasticité respiratoire induite dans les lésions de la moelle épinière cervicale exploration de nouvelles stratégies thérapeutiques
