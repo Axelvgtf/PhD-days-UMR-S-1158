@@ -32,7 +32,7 @@ education:
        institution: Sorbonne Université
       year: 2012
     - course: M2 B2PRS
-      #institution: Massachusetts Institute of Technology
+      institution: 
       year: 2019
     - course: Diplôme d'Etat Masso-kinésithérapie
       institution: MKDE
