@@ -71,4 +71,5 @@ user_groups:
 ---
 
 # Thèse
-Neuroplasticité respiratoire induite dans les lésions de la moelle épinière cervicale exploration de nouvelles stratégies thérapeutiques
+## Neuroplasticité respiratoire induite dans les lésions de la moelle épinière cervicale exploration de nouvelles stratégies thérapeutiques
+Directeur de thèse: Isabelle Vivodtzev
