@@ -10,7 +10,7 @@ baseURL: 'https://journee-umr-s-1158.netlify.app' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: 'en-us'
+defaultContentLanguage: en-us
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
