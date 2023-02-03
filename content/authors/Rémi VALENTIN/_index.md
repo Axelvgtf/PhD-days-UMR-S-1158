@@ -72,4 +72,5 @@ user_groups:
 
 # Thèse :
 ## Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques
-Sous la direction de : Valérie Attali et la co-direction de : Marie-Cécile Niérat, Héléne Pillet (IBHGC-ENSAM), Baptiste Sandoz (IBHGC-ENSAM)
+Sous la direction de : Valérie Attali 
+et la co-direction de : Marie-Cécile Niérat, Héléne Pillet (IBHGC-ENSAM), Baptiste Sandoz (IBHGC-ENSAM)
