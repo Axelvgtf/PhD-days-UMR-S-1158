@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Journée des doctorants   
-  UMRS-1158
+  UMR-S 1158
 hero_media: UMRS.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-Bienvenue sur le site dédié à **la journée des doctorants** de l'UMR-S 1158
+Bienvenue sur le site consacré à **la journée des doctorants** de l'UMR-S 1158. Cette journée sera dédiée aux présentations scientifiques des doctorants sur leurs thématiques respectives afin de présenter leur travaux et leurs découvertes ainsi qu'à l'échange. 
