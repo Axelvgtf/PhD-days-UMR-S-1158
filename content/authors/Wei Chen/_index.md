@@ -21,6 +21,7 @@ organizations:
 bio: Neuroplasticité respiratoire induite dans les lésions de la moelle épinière cervicale exploration de nouvelles stratégies thérapeutiques
 
 interests:
+  - name: Intérêts
   - Cervical Spinal Cord Injury
   - Cervical 3 hemi-contusion model
   - Repetitive magnetic stimulation
