@@ -20,4 +20,4 @@ design:
 
 <br>
 
-Bienvenue sur le site consacré à **la journée des doctorants** de l'UMR-S 1158. Cette journée sera dédiée aux présentations scientifiques des doctorants sur leurs thématiques respectives afin de présenter leur travaux et les découvertes qui en découlent. 
+Bienvenue sur le site consacré à la **journée des doctorants** de l'UMR-S 1158. Cette journée sera dédiée aux présentations scientifiques des doctorants sur leurs thématiques respectives afin de présenter leur travaux et les découvertes qui en découlent. 
