@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  adress:
+  address:
     street: 83 Bd de l'Hôpital
     city: Paris
     region: CA
