@@ -17,7 +17,7 @@ content:
   address:
     street: 83 Bd de l'Hôpital
     city: Paris
-    region: CA
+    region: 
     postcode: '75013'
     country: France
     country_code: US
