@@ -30,7 +30,7 @@ education:
   courses:
     - course: Doctorat
       institution: Sorbonne Université
-      year: 2012
+      year: 2024
     - course: M2 B2PRS
       #institution: 
       year: 2019
