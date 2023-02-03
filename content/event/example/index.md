@@ -45,7 +45,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: "tour"
-references: 'content/tour/slider.md' 
+rurl_slides: https://journee-umr-s-1158.netlify.app/tour/
 
 
 # Projects (optional).
