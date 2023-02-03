@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Les recherches que j'effectue portent principalement sur l'échographie ultra rapide et la découverte de biomarqueurs utiles pour la détection des dysphonction diaphragmatique.
 
-intérêts: 
+interests: 
   - Échographie ultra rapide
   - Biomarqueurs
   - Diaphragme
