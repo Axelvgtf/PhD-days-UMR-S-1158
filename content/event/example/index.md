@@ -44,7 +44,8 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: content/tour/slider.md
+slides: 'slider'
+references: content/tour/slider.md
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
