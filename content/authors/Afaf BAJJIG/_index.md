@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rémi VALENTIN
+title: Afaf BAJJIG
 
 # Username (this should match the folder name)
 authors:
-  - Rémi VALENTIN
+  - Afaf BAJJIG
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctorant
+role: Doctorante
 
 # Organizations/Affiliations
 organizations:
@@ -18,25 +18,24 @@ organizations:
     url: 'https://www.sorbonne-universite.fr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques'
+bio: 'Les lésions médullaires cervicales et neuroplasticité inductible'
 
 interests:
-  - Commande Corticale
-  - Locomotion
-  - Biomécanique
-  - Couplage
+  - Lésion médullaire cervicale
+  - Dépendance ventilatoire
+  - Remodelage neuronal
 
-education:
-  courses:
-    - course: Doctorat (en cours)
-      institution: Sorbonne Université
-      year: 2021-2024
-    - course: M2 B2PRS
-      #institution: 
-      year: 2019
-    - course: Diplôme d'Etat Masso-kinésithérapie
-      institution: MKDE
-      year: 2017
+#education:
+#  courses:
+#    - course: Doctorat (en cours)
+#      institution: Sorbonne Université
+#      year: 2021-2024
+#    - course: M2 B2PRS
+#      #institution: 
+#      year: 2019
+#    - course: Diplôme d'Etat Masso-kinésithérapie
+#      institution: MKDE
+#      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,10 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: Remi.VALENTIN@ensam.eu'
- # - icon: twitter
-  #  icon_pack: fab
-   # link: https://twitter.com/GeorgeCushen
+    link: 'mailto: afaf.bajjig@yahoo.fr'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Afaf-Bajjig-2
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -71,6 +70,6 @@ user_groups:
 ---
 
 # Thèse :
-## Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques
-Sous la direction de Valérie Attali 
-et la co-direction de Marie-Cécile Niérat, Héléne Pillet (IBHGC-ENSAM) et Baptiste Sandoz (IBHGC-ENSAM)
+## Les lésions médullaires cervicales et neuroplasticité inductible
+Sous la direction de Dr Isabelle Vivodtzev
+
