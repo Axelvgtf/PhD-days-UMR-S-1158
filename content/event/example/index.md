@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: Journée des doctorants de l'UMRS-1158
 
 event: Wowchemy Conference
 event_url: https://example.org
