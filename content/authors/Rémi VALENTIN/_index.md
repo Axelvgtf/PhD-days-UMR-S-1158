@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-    - course: Doctorat
+    - course: Doctorat (en cours)
       institution: Sorbonne Université
-      year: 2024
+      year: 2021-2024
     - course: M2 B2PRS
       #institution: 
       year: 2019
