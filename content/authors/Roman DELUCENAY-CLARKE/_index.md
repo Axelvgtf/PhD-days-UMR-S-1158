@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.sorbonne-universite.fr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Etude de la neuroplasticité ventilatoire induite par la stimulation transcutanée cervicale en courant direct continu sur des souris modélisant des syndromes d'hypoventilation d'origine centrale'
+bio: ''
 
 interests:
   - Lésion médullaire cervicale
