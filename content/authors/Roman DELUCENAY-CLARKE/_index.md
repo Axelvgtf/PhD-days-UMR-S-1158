@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.sorbonne-universite.fr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Les lésions médullaires cervicales et neuroplasticité inductible'
+bio: 'Etude de la neuroplasticité ventilatoire induite par la stimulation transcutanée cervicale en courant direct continu sur des souris modélisant des syndromes d'hypoventilation d'origine centrale'
 
 interests:
   - Lésion médullaire cervicale
@@ -70,6 +70,6 @@ user_groups:
 ---
 
 # Thèse :
-## Les lésions médullaires cervicales et neuroplasticité inductible
-Sous la direction de Dr Isabelle Vivodtzev
+## Etude de la neuroplasticité ventilatoire induite par la stimulation transcutanée cervicale en courant direct continu sur des souris modélisant des syndromes d'hypoventilation d'origine centrale
+Sous la direction de Laurence BODINEAU et Florence CAYETANOT
 
