@@ -21,9 +21,10 @@ organizations:
 bio: ''
 
 interests:
-  - Lésion médullaire cervicale
-  - Dépendance ventilatoire
-  - Remodelage neuronal
+  - OHS
+  - Leptine
+  - tsDCS
+  - Neuroplasticité ventilatoire
 
 #education:
 #  courses:
