@@ -46,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto: rdeluc85@gmail.com'
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Afaf-Bajjig-2
+  #- icon: researchgate
+  #  icon_pack: ai
+  #  link: https://www.researchgate.net/profile/Afaf-Bajjig-2
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
