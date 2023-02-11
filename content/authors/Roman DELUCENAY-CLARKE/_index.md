@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Afaf BAJJIG
+title: Roman DELUCENAY-CLARKE
 
 # Username (this should match the folder name)
 authors:
-  - Afaf BAJJIG
+  - Roman DELUCENAY-CLARKE
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctorante
+role: Doctorant
 
 # Organizations/Affiliations
 organizations:
@@ -44,10 +44,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: afaf.bajjig@yahoo.fr'
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Afaf-Bajjig-2
+    link: 'mailto: rdeluc85@gmail.com'
+  #- icon: researchgate
+  #  icon_pack: ai
+  #  link: https://www.researchgate.net/profile/Afaf-Bajjig-2
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
