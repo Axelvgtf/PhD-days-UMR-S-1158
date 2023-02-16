@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: gosset.JPG
-    - title: Présentations des travaux des doctorants 📚
+    - title: Présentations des travaux des doctorants 
       content: 'dans l'amphitthéâtre Anthonin Gosselet'
       align: left
       background:
