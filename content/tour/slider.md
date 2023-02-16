@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: amphi.JPG
-    - title: Pause repas à midi dans la bibliothèque ☕️
-      content: ''
+    - title: Pause repas à midi  ☕️
+      content: 'dans la bibliothèque'
       align: right
       background:
         position: center
