@@ -23,16 +23,16 @@ content:
         color: '#666'
         brightness: 0.7
         media: gosset.JPG
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Présentations des travaux des doctorants 📚
+      content: 'dans l'amphitthéâtre Anthonin Gosselet'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: amphi.JPG
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Pause repas à midi dans la bibliothèque ☕️
+      content: ''
       align: right
       background:
         position: center
