@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Bienvenue à la journée des doctorants
+      content: ''
       align: center
       background:
         position: right
