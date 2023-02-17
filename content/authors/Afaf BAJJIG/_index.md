@@ -71,5 +71,5 @@ user_groups:
 
 # Thèse :
 ## Les lésions médullaires cervicales et neuroplasticité inductible
-Sous la direction de Dr Isabelle Vivodtzev
+Sous la direction de : Isabelle Vivodtzev
 
