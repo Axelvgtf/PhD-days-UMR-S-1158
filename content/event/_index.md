@@ -1,5 +1,5 @@
 ---
-title: Évenement
+title: Événement
 
 # Listing view
 view: compact
