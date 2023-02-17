@@ -43,6 +43,6 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Événement
-        url: ../Événement/
+        url: ../event/
 ---
 
