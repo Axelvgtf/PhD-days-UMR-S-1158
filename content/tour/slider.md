@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: gosset.JPG
     - title: Présentations des travaux des doctorants 
-      content: "dans l'amphitthéâtre Anthonin Gosselet"
+      content: "dans l'amphitthéâtre Antonin Gosselet"
       align: left
       background:
         position: center
