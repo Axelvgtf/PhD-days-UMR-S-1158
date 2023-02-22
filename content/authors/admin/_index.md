@@ -68,4 +68,7 @@ user_groups:
   - Doctorants
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Thèse :
+## Échographie ultrarapide pour l'évaluation de la structure, de la fonction et des processus physiopathologiques des muscles respiratoires
+Sous la direction de Damien Bachasson et Jean-Luc Gennisson
+
