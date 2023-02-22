@@ -73,3 +73,8 @@ user_groups:
 ## Les lésions médullaires cervicales et neuroplasticité inductible
 Sous la direction de : Isabelle Vivodtzev
 
+## Articles publiés
+Bajjig, Afaf, Florence Cayetanot, J. Andrew Taylor, Laurence Bodineau, and Isabelle Vivodtzev. "Serotonin 1a Receptor Pharmacotherapy and Neuroplasticity in Spinal Cord Injury." Pharmaceuticals 15, no. 4 (2022): 460. https://www.mdpi.com/1424-8247/15/4/460.
+
+Bajjig, Afaf, Pauline Michel-Flutot, Tiffany Migevent, Florence Cayetanot, Laurence Bodineau, Stéphane Vinit, and Isabelle Vivodtzev. "Diaphragmatic Activity and Respiratory Function Following C3 or C6 Unilateral Spinal Cord Contusion in Mice." Biology 11, no. 4 (2022): 558. https://www.mdpi.com/2079-7737/11/4/558.
+
