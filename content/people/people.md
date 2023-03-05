@@ -18,7 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Doctorants
-    - Oratrice
+    #- Oratrice
     - Administration
     - Visitors
     - Alumni
