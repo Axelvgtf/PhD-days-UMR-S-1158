@@ -72,7 +72,7 @@ email: ''
 user_groups:
   - Oratrice
 ---
-
+# Présentation 
 Cécile DEJOUX est Professeur des universités au Cnam, responsable nationale de la filière RH, du Master GRH et transformation numérique, Professeur affiliée à l’ESCP Business School. Elle dispense des conférences en entreprises sur des thématiques complémentaires : “ Le Care Management ou comment engager ses collaborateurs dans le new normal”, “Manager en mode hybride”,  “Comment l’Intelligence Artificielle change le travail et le rôle du manager”, “ Les nouvelles façons de se former et d’apprendre”, etc.
 
 Spécialiste de l’enseignement à distance, elle a conçu les MOOCs francophones les plus suivis “ Manager par le CARE”, “ Du manager au leader : devenir agile et collaboratif ”, “ l’IA pour tous “, “ Management post-covid “, “ du manager hybride au new leader “, etc avec plus de 420 000 personnes inscrites réparties dans 148 pays en 14 saisons sur France Université Numérique.
@@ -85,16 +85,26 @@ Depuis 2021, elle est membre du Conseil d’éthique de la Data et de l’IA de 
 Depuis 2019 membre du jury du Prix du DRH numérique organisé par l’ANDRH.
 
 
-Distinctions : 
+## Distinctions : 
 
 Parmi les 12 femmes les plus influentes sur Linkedin dans le Digital (2022)
+
 4eme dans le classement Tyto des 21 femmes françaises de la Tech (16eme sur les 100 français - 2020)
+
 Top Voice, Influenceuse en transformation managériale sur Linkedin (2020)
-Lauréate 2017 du concours Femmes En Vue par Voxfemina Voir sa biographie
+
+Lauréate 2017 du concours Femmes En Vue par Voxfemina 
+
 Auteur du Mooc le plus suivi en France et élu meilleur Mooc de l'année 2017 par le Journal du Net. 
+
 L’Usine Nouvelle titre « la e-pédagogie » (2017)
+
 Nominée Femme en vue (2017) Prix Mooc of the Year (2016, 2017)
+
 Le Monde « la prof qui crève l’écran » (2016)
+
 Chevalier de la légion d’honneur (2015)
-Couverture de Challenges dans « Apprendre en ligne » (2015),
+
+Couverture de Challenges dans « Apprendre en ligne » (2015)
+
 Classée n°1 des disrupteurs par le magazine l’Opinion (2014), elle est interviewée par de nombreuses revues pour son expertise en management et RH (les Echos, Capital, Management, le monde, Liaisons Sociales, etc.).
