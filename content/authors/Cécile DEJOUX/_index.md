@@ -82,29 +82,19 @@ En 2015, elle crée et dirige l’Observatoire du futur du travail, du managemen
 Elle a publié plus de 25 articles scientifiques et communications internationales ainsi que de nombreux livres dont Ce sera l’IA et moi (avril 2020), Métamorphoses des managers à l’ère du numérique et de l’IA (avec E. Leon, 2018), du manager agile au Leader designer, 2017, Gestion des talents, 2015 2eme ed, (avec M. Thévenet), Fonctions RH, 2020, 5eme ed, (collectif) etc.
 
 Depuis 2021, elle est membre du Conseil d’éthique de la Data et de l’IA de l’entreprise ORANGE. 
-Depuis 2019 membre du jury du Prix du DRH numérique organisé par l’ANDRH
+Depuis 2019 membre du jury du Prix du DRH numérique organisé par l’ANDRH.
+
+
 Distinctions : 
 
 Parmi les 12 femmes les plus influentes sur Linkedin dans le Digital (2022)
-
 4eme dans le classement Tyto des 21 femmes françaises de la Tech (16eme sur les 100 français - 2020)
-
 Top Voice, Influenceuse en transformation managériale sur Linkedin (2020)
-
 Lauréate 2017 du concours Femmes En Vue par Voxfemina Voir sa biographie
-
 Auteur du Mooc le plus suivi en France et élu meilleur Mooc de l'année 2017 par le Journal du Net. 
-
 L’Usine Nouvelle titre « la e-pédagogie » (2017)
-
 Nominée Femme en vue (2017) Prix Mooc of the Year (2016, 2017)
-
 Le Monde « la prof qui crève l’écran » (2016)
-
 Chevalier de la légion d’honneur (2015)
-
-en couverture de Challenges dans « Apprendre en ligne » (2015),
-
- classée n°1 des disrupteurs par le magazine l’Opinion (2014), elle est interviewée par de nombreuses revues pour son expertise en management et RH (les Echos, Capital, Management, le monde, Liaisons Sociales, etc.).
-
-Ses publications dans la presse : 2019, 2018, 2017
+Couverture de Challenges dans « Apprendre en ligne » (2015),
+Classée n°1 des disrupteurs par le magazine l’Opinion (2014), elle est interviewée par de nombreuses revues pour son expertise en management et RH (les Echos, Capital, Management, le monde, Liaisons Sociales, etc.).
