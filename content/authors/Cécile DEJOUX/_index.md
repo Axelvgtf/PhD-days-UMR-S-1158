@@ -70,7 +70,38 @@ user_groups:
   - Oratrice
 ---
 
-# Thèse :
-## Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques
-Sous la direction de Valérie Attali 
-et la co-direction de Marie-Cécile Niérat, Héléne Pillet (IBHGC-ENSAM) et Baptiste Sandoz (IBHGC-ENSAM)
+Cécile DEJOUX est Professeur des universités au Cnam, responsable nationale de la filière RH, du Master GRH et transformation numérique, Professeur affiliée à l’ESCP Business School. Elle dispense des conférences en entreprises sur des thématiques complémentaires : “ Le Care Management ou comment engager ses collaborateurs dans le new normal”, “Manager en mode hybride”,  “Comment l’Intelligence Artificielle change le travail et le rôle du manager”, “ Les nouvelles façons de se former et d’apprendre”, etc.
+
+Spécialiste de l’enseignement à distance, elle a conçu les MOOCs francophones les plus suivis “ Manager par le CARE”, “ Du manager au leader : devenir agile et collaboratif ”, “ l’IA pour tous “, “ Management post-covid “, “ du manager hybride au new leader “, etc avec plus de 420 000 personnes inscrites réparties dans 148 pays en 14 saisons sur France Université Numérique.
+
+En 2015, elle crée et dirige l’Observatoire du futur du travail, du management et des compétenes,  Le Learning Lab Human Change au Cnam avec des entreprises (SNCF, Malakoff Humanis, Michelin, Robert Walters, Cornerstone, Julhiet Sterwen) pour accompagner la transformation des collaborateurs avec le numérique et l’IA (Learning expédition pour création de connaissances : Californie 2017, Singapour, Hong Kong 2017, CES Las Vegas 2018, Chine 2019, USA boston harvard, Mit et Canada 2019, Japon 2020, USA et Vienne 2022). Encadrement de thésards, membre de comité de lecture de revues scientifiques et grand public (Pour l’Eco), Directrice de groupe de recherche (AGRH, Anvie).
+
+Elle a publié plus de 25 articles scientifiques et communications internationales ainsi que de nombreux livres dont Ce sera l’IA et moi (avril 2020), Métamorphoses des managers à l’ère du numérique et de l’IA (avec E. Leon, 2018), du manager agile au Leader designer, 2017, Gestion des talents, 2015 2eme ed, (avec M. Thévenet), Fonctions RH, 2020, 5eme ed, (collectif) etc.
+
+Depuis 2021, elle est membre du Conseil d’éthique de la Data et de l’IA de l’entreprise ORANGE. 
+Depuis 2019 membre du jury du Prix du DRH numérique organisé par l’ANDRH
+Distinctions : 
+
+Parmi les 12 femmes les plus influentes sur Linkedin dans le Digital (2022)
+
+4eme dans le classement Tyto des 21 femmes françaises de la Tech (16eme sur les 100 français - 2020)
+
+Top Voice, Influenceuse en transformation managériale sur Linkedin (2020)
+
+Lauréate 2017 du concours Femmes En Vue par Voxfemina Voir sa biographie
+
+Auteur du Mooc le plus suivi en France et élu meilleur Mooc de l'année 2017 par le Journal du Net. 
+
+L’Usine Nouvelle titre « la e-pédagogie » (2017)
+
+Nominée Femme en vue (2017) Prix Mooc of the Year (2016, 2017)
+
+Le Monde « la prof qui crève l’écran » (2016)
+
+Chevalier de la légion d’honneur (2015)
+
+en couverture de Challenges dans « Apprendre en ligne » (2015),
+
+ classée n°1 des disrupteurs par le magazine l’Opinion (2014), elle est interviewée par de nombreuses revues pour son expertise en management et RH (les Echos, Capital, Management, le monde, Liaisons Sociales, etc.).
+
+Ses publications dans la presse : 2019, 2018, 2017
