@@ -49,9 +49,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CecileDejoux
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCpvcQb4yDuHOmZ1rH4H1sYw
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
