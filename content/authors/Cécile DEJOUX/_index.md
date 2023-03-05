@@ -13,30 +13,30 @@ superuser: false
 role: Oratrice
 
 # Organizations/Affiliations
-organizations:
-  - name: Sorbonne Université
-    url: 'https://www.sorbonne-universite.fr'
+#organizations:
+  #- name: Sorbonne Université
+  #  url: 'https://www.sorbonne-universite.fr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques'
+#bio: 'Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques'
 
-interests:
+#interests:
   - Commande Corticale
   - Locomotion
   - Biomécanique
   - Couplage
 
-education:
-  courses:
-    - course: Doctorat (en cours)
-      institution: Sorbonne Université
-      year: 2021-2024
-    - course: M2 B2PRS
-      #institution: 
-      year: 2019
-    - course: Diplôme d'Etat Masso-kinésithérapie
-      institution: MKDE
-      year: 2017
+#education:
+  #courses:
+    #- course: Doctorat (en cours)
+    #  institution: Sorbonne Université
+    #  year: 2021-2024
+   # - course: M2 B2PRS
+    #  #institution: 
+    #  year: 2019
+    #- course: Diplôme d'Etat Masso-kinésithérapie
+    #  institution: MKDE
+    #  year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
