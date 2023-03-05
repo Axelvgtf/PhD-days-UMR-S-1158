@@ -55,7 +55,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'dejoux.cecile@gmail.com'
-  - icon: globe
+  - icon: regular-globe
     icon_pack: fab
     link: https://www.ceciledejoux.com
 # Link to a PDF of your resume/CV from the About widget.
