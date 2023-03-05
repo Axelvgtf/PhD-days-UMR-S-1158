@@ -7,7 +7,7 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: Oratrice
+  - name: Invitée
     url: oratrice
     weight: 20
   - name: Doctorants
