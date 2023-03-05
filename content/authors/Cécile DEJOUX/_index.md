@@ -21,10 +21,10 @@ role: Oratrice
 #bio: 'Couplage Locomotion-Respiration : Application aux pathologies respiratoires chroniques'
 
 #interests:
-  - Commande Corticale
-  - Locomotion
-  - Biomécanique
-  - Couplage
+  #- Commande Corticale
+  #- Locomotion
+  #- Biomécanique
+  #- Couplage
 
 #education:
   #courses:
