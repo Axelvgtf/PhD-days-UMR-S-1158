@@ -1,8 +1,8 @@
 ---
 title: Journée des doctorants de l'UMRS-1158
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Séminaire
+event_url: https://journee-umr-s-1158.netlify.app
 
 #location: Wowchemy HQ
 #address:
@@ -17,8 +17,8 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2030-06-01T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+date: '2023-03-28T09:00:00Z'
+date_end: '2023-03-28T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
