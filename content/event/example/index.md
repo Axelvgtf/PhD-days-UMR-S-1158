@@ -13,7 +13,7 @@ event_url: https://journee-umr-s-1158.netlify.app
 #  #country: United States
 
 summary: Programme du séminaire.
-abstract: 'Cette journée est l'occasion pour les doctorants de l'UMR-S 1158 d'échanger sur leur sujet de thèse, de mettre en avant leurs différents travaux et résultats tout en intéragissant avec leurs pairs.'
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
