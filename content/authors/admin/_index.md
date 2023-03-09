@@ -14,7 +14,7 @@ organizations:
     url: 'https://www.sorbonne-universite.fr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Les recherches que j'effectue portent principalement sur l'échographie ultra rapide et la découverte de biomarqueurs utiles pour la détection des dysphonction diaphragmatique.
+#bio: Les recherches que j'effectue portent principalement sur l'échographie ultra rapide et la découverte de biomarqueurs utiles pour la détection des dysphonction diaphragmatique.
 
 interests: 
   - Échographie ultra rapide
