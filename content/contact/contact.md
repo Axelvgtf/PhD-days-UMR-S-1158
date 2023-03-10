@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
   address:
-    street: Amphithéâtre Antonin Gosselet, 83 Bd de l'Hôpital
+    street: Amphithéâtre Antonin Gosset, 83 Bd de l'Hôpital
     city: Paris
     region: 
     postcode: '75013'
