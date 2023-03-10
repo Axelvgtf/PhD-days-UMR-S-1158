@@ -8,7 +8,7 @@ main:
     url: tour
     weight: 10
   - name: Invitée
-    url: oratrice
+    url: author/cecile-dejoux/
     weight: 20
   - name: Doctorants
     url: people
