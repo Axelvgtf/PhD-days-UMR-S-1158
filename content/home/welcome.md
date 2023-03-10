@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Journée des doctorants   
   de l'UMR-S 1158
-hero_media: UMRS.jpg
+hero_media: umrr.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
