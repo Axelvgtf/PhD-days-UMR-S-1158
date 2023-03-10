@@ -25,7 +25,7 @@ content:
     latitude: '48.836705'
     longitude: '2.364828'
   office_hours:
-    - 'Mardi 28 Mars 08:00 - 18:00'
+    - 'Mardi 28 Mars 09:00 - 17:30'
     
   appointment_url: 'https://calendly.com'
   
